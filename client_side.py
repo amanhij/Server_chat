@@ -1,3 +1,5 @@
+#This program was written in French, you may translate it if you do not speak French.
+
 
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
